@@ -1,0 +1,11 @@
+{
+  "name": "uselang",
+  "version": "1.0.0",
+  "description": "simple hook to make language switching an easy task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
